@@ -8,3 +8,5 @@ Selve programmet består af en GUI lavet i PySimpleGUI. Der er et input felt hvo
 
 # RSA.py
 RSA.py demonstrere RSA encryption i en konsol applikation
+
+RSA algoritmen fungere ved at den person der gerne vil sende noget data, låser det de gerne vil sende, med modtagernes nøgle. Når det er låst med modtagernes nøgle og den offentlige nøgle, kan det kun blive låst op med den private nøgle som modtageren har. 
